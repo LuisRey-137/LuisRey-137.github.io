@@ -1,0 +1,82 @@
+{
+    "examTitle": "Examen de Prueba Avanzado",
+    "timeLimit": 45,
+    "readingSection": {
+      "title": "La Revolución Industrial: Impacto y Transformaciones",
+      "content": "La Revolución Industrial supuso cambios profundos en los ámbitos económico, social y tecnológico, extendiéndose desde mediados del siglo XVIII hasta principios del XIX. El proceso se inició en Gran Bretaña y rápidamente se expandió a otros países de Europa y, más tarde, a Estados Unidos.\n\nEntre los factores que impulsaron esta transformación se encuentran la mecanización de la industria textil, el perfeccionamiento de la máquina de vapor y la consolidación de nuevos métodos de producción en masa. Este período también trajo consigo consecuencias sociales significativas, como el crecimiento acelerado de las ciudades y el surgimiento de una nueva clase obrera.\n\nAdemás de los efectos positivos en la producción y la economía, la Revolución Industrial planteó desafíos como la explotación laboral, las largas jornadas de trabajo y la falta de condiciones higiénicas, especialmente en las urbes en expansión. A pesar de estas dificultades, los avances tecnológicos sentaron las bases para el desarrollo económico moderno y transformaron de forma duradera las estructuras sociales y laborales en todo el mundo."
+    },
+    "questions": [
+      {
+        "type": "reading",
+        "question": "¿En qué país comenzó la Revolución Industrial?",
+        "options": ["Estados Unidos", "Gran Bretaña", "Francia", "Alemania"],
+        "correct": 1,
+        "feedback": "La Revolución Industrial dio sus primeros pasos en Gran Bretaña."
+      },
+      {
+        "type": "reading",
+        "question": "¿En qué siglo comenzó la Revolución Industrial, según el texto?",
+        "options": ["En la segunda mitad del siglo XVIII", "En el siglo XX", "En el siglo XVI", "En la primera mitad del siglo XIX"],
+        "correct": 0,
+        "feedback": "Según el texto, comenzó en la segunda mitad del siglo XVIII."
+      },
+      {
+        "type": "reading",
+        "question": "¿Cuál fue uno de los principales avances tecnológicos que impulsó la industria textil?",
+        "options": [
+          "La expansión del ferrocarril",
+          "La mecanización de la imprenta",
+          "La perfección de la máquina de vapor",
+          "La aplicación de energía solar"
+        ],
+        "correct": 2,
+        "feedback": "La perfección de la máquina de vapor resultó decisiva para la industria textil y otros sectores."
+      },
+      {
+        "type": "reading",
+        "question": "¿Qué consecuencia social importante trajo la Revolución Industrial?",
+        "options": [
+          "La desaparición de las clases sociales",
+          "La reducción de la población urbana",
+          "El crecimiento acelerado de las ciudades",
+          "La consolidación de la monarquía"
+        ],
+        "correct": 2,
+        "feedback": "Con la industrialización, las ciudades crecieron velozmente debido a la migración de personas en busca de empleo."
+      },
+      {
+        "type": "reading",
+        "question": "¿Qué problema social se menciona como resultado del rápido desarrollo industrial?",
+        "options": [
+          "El fin de la esclavitud",
+          "La explotación laboral y falta de condiciones higiénicas",
+          "La igualdad salarial",
+          "La desaparición de la clase obrera"
+        ],
+        "correct": 1,
+        "feedback": "Entre los problemas que surgieron, se menciona la explotación laboral y la falta de condiciones higiénicas."
+      },
+      {
+        "type": "regular",
+        "question": "¿Quién pintó la Mona Lisa?",
+        "options": ["Leonardo da Vinci", "Miguel Ángel", "Vincent van Gogh", "Pablo Picasso"],
+        "correct": 0,
+        "feedback": "Leonardo da Vinci fue quien pintó la Mona Lisa."
+      },
+      {
+        "type": "regular",
+        "question": "¿Cuál es la moneda oficial de Japón?",
+        "options": ["Euro", "Libra", "Yen", "Dólar"],
+        "correct": 2,
+        "feedback": "La moneda oficial de Japón es el Yen."
+      },
+      {
+        "type": "regular",
+        "question": "¿Cuántos continentes se consideran comúnmente en la Tierra?",
+        "options": ["Cinco", "Seis", "Siete", "Cuatro"],
+        "correct": 2,
+        "feedback": "Habitualmente se cuentan siete continentes: África, América, Antártida, Asia, Europa, Oceanía y, a veces, se separa la Antártida de la lista."
+      }
+    ]
+  }
+  

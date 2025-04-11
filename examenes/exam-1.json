@@ -1,0 +1,38 @@
+{
+  "examTitle": "Examen de Prueba",
+  "timeLimit": 30,
+  "readingSection": {
+      "title": "La Revolución Industrial",
+      "content": "La Revolución Industrial fue un proceso de transformación económica, social y tecnológica que comenzó en la segunda mitad del siglo XVIII en Gran Bretaña. Este período marcó un punto de inflexión en la historia, modificando todos los aspectos de la vida cotidiana.\n\nDurante este período, la economía basada en el trabajo manual fue reemplazada por otra dominada por la industria y la manufactura. La Revolución comenzó con la mecanización de las industrias textiles y el desarrollo de los procesos del hierro. La expansión del comercio fue favorecida por la mejora de las rutas de transportes y posteriormente por el nacimiento del ferrocarril.\n\nLas innovaciones tecnológicas más importantes fueron la máquina de vapor y la denominada Spinning Jenny, una potente máquina relacionada con la industria textil. Estas nuevas máquinas favorecieron enormes incrementos en la capacidad de producción."
+  },
+  "questions": [
+      {
+          "type": "reading",
+          "question": "¿Dónde comenzó la Revolución Industrial?",
+          "options": ["Francia", "Estados Unidos", "Gran Bretaña", "Alemania"],
+          "correct": 2,
+          "feedback": "La Revolución Industrial comenzó en Gran Bretaña en la segunda mitad del siglo XVIII."
+      },
+      {
+          "type": "reading",
+          "question": "¿Cuándo comenzó la Revolución Industrial?",
+          "options": ["Siglo XX", "Siglo XXI", "Siglo XIX", "Siglo XVIII"],
+          "correct": 2,
+          "feedback": "La Revolución Industrial comenzó en Gran Bretaña en la segunda mitad del siglo XVIII."
+      },
+      {
+          "type": "reading",
+          "question": "¿Cuál fue una de las innovaciones tecnológicas más importantes mencionadas en el texto?",
+          "options": ["El teléfono", "La máquina de vapor", "La electricidad", "El automóvil"],
+          "correct": 1,
+          "feedback": "La máquina de vapor fue una de las innovaciones tecnológicas más importantes de la Revolución Industrial."
+      },
+      {
+          "type": "regular",
+          "question": "¿Cuál es la capital de Francia?",
+          "options": ["Londres", "Madrid", "París", "Berlín"],
+          "correct": 2,
+          "feedback": "París es la capital de Francia."
+      }
+  ]
+}

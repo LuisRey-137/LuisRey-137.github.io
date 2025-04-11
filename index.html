@@ -3,26 +3,39 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simulador de Examen</title>
+    <title>Simulador de Exámenes</title>
     <link rel="stylesheet" href="styles.css">
-    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </head>
 <body>
     <div class="container">
-        <h1>Simulador de Examen</h1>
-        <div class="timer" id="timer">00:30</div>
-        <div id="progress">Pregunta 1 de 3</div>
-        <div id="quiz">
-            <!-- Las preguntas se cargarán aquí -->
+        <header>
+            <h1>Simulador de Exámenes</h1>
+            <p class="subtitle">Selecciona un examen para comenzar</p>
+        </header>
+        
+        <div class="exams-container" id="exams-container">
+            <!-- Los exámenes se cargarán aquí dinámicamente -->
+            <div class="loading">Cargando exámenes disponibles...</div>
         </div>
-        <button class="btn" id="nextBtn">Siguiente</button>
-        <div class="results" id="results">
-            <h2>Resultados del examen</h2>
-            <p>Puntuación: <span id="score">0</span> de 3</p>
-            <p>Porcentaje de aciertos: <span id="percentage">0</span>%</p>
-            <h3>Retroalimentación detallada:</h3>
-            <div id="detailed-feedback"></div>
+
+        <div class="info-section">
+            <div class="info-card">
+                <h3>¿Cómo funciona?</h3>
+                <p>Selecciona cualquier examen de la lista para comenzar a practicar. Cada simulacro incluye un temporizador y retroalimentación detallada para ayudarte a mejorar.</p>
+            </div>
+            <div class="info-card">
+                <h3>Instrucciones</h3>
+                <ul>
+                    <li>Responde todas las preguntas antes de que se acabe el tiempo</li>
+                    <li>Puedes navegar entre las preguntas usando los números en la parte superior</li>
+                    <li>Al finalizar, recibirás un análisis detallado de tu rendimiento</li>
+                </ul>
+            </div>
         </div>
+
+        <footer>
+            <p>© 2025 Simulador de Exámenes</p>
+        </footer>
     </div>
     <script src="script.js"></script>
 </body>
